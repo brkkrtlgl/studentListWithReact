@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "studentNumber": "651",
+      "name": "Burak",
+      "surname": "Kartaloğlu",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "",
+      "fizik": "",
+      "kimya": ""
+    }
+  ],
+
+  "lessons": [
+    {
+      "id": 1,
+      "name": "matematik"
+    },
+    {
+      "id": 2,
+      "name": "fizik"
+    },
+    {
+      "id": 3,
+      "name": "kimya"
+    }
+  ]
+}
