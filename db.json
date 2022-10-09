@@ -6,9 +6,59 @@
       "surname": "Kartaloğlu",
       "class": "12",
       "school": "İzmir Atatürk Lisesi",
-      "matematik": "",
-      "fizik": "",
-      "kimya": ""
+      "matematik": "100",
+      "fizik": "96",
+      "kimya": "99"
+    },
+    {
+      "studentNumber": "652",
+      "name": "Ali İsmail",
+      "surname": "Korkmaz",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "100",
+      "fizik": "100",
+      "kimya": "100"
+    },
+    {
+      "studentNumber": "653",
+      "name": "Mehmet",
+      "surname": "Ayvalıtaş",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "100",
+      "fizik": "100",
+      "kimya": "100"
+    },
+    {
+      "studentNumber": "654",
+      "name": "Ethem",
+      "surname": "Sarısülük",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "100",
+      "fizik": "96",
+      "kimya": "99"
+    },
+    {
+      "studentNumber": "655",
+      "name": "Ahmet",
+      "surname": "Atakan",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "100",
+      "fizik": "96",
+      "kimya": "99"
+    },
+    {
+      "studentNumber": "656",
+      "name": "Mehmet",
+      "surname": "İstif",
+      "class": "12",
+      "school": "İzmir Atatürk Lisesi",
+      "matematik": "100",
+      "fizik": "96",
+      "kimya": "99"
     }
   ],
 
